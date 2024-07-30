@@ -1,0 +1,17 @@
+__pycache__
+*.pyc
+myenv/*
+app_similarity_score.log
+output/RecruiterHtmls/*.html
+output/*
+output/logs/app.log
+output/old/*
+RecruitmentHiveAI_WINDOWS_1.00_setup.exe
+dist/RecruitmentHiveAI.exe
+build/RecruitmentHiveAI/RecruitmentHiveAI.pkg
+build/RecruitmentHiveAI/*
+build/*
+build_env/*
+venv/*
+fastembed_env/*
+_internal/*
